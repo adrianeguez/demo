@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.inventario
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jpa, gradle, h2, http-client, http-session, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-extension-functions, logback, netty-server, readme, security-annotations, security-jwt, shade, yaml]
